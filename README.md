@@ -25,7 +25,7 @@ For every other Linux distribution install **oscanner** with the following comma
 git clone https://github.com/GenialHacker/oscanner.git
 cd oscanner
 chmod +x ./oscanner.sh
-./oscanner.sh
+sudo ./oscanner.sh
 ```
 
 ## Usage
